@@ -1,0 +1,93 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "employeeId": "Emp123",
+      "name": "john dow",
+      "age": 18,
+      "addresses": [
+          {"id":1, "location": 'Kolkata'},
+          {"id":2, "location":'Delhi'},
+          {"id":3, "location":'Bombay'},
+          {"id":4, "location":'Hydrabad'}
+      ]
+    },
+    {
+      "id": 2,
+      "employeeId": "Emp321",
+      "name": "Bruce me",
+      "age": 28,
+      "addresses": [
+          {"id":1,"location":'Bangalore'},
+          {"id":2,"location":'Pune'},
+          {"id":3,"location":'Other'},
+          {"id":4,"location":'Chambal'}
+      ]
+    },
+    {
+      "id": 3,
+      "employeeId": "Emp3214",
+      "name": "Derp sop",
+      "age": 19,
+      "addresses": [
+          {"id":1,"location":'Barrackpore'},
+          {"id":2,"location":'Hoogly'},
+          {"id":3,"location":'Agra'},
+          {"id":4,"location":'Sealdah'}
+      ]
+    },
+    {
+      "id": 4,
+      "employeeId": "Emp32151",
+      "name": "Bruce Almighty",
+      "age": 118,
+      "addresses": [
+          {"id":1,"location":'Bangalore'},
+          {"id":2,"location":'New york'},
+          {"id":3,"location":'Bon'},
+          {"id":4,"location":'Calcutta'}
+
+      ]
+    },
+    {
+      "id": 5,
+      "employeeId": "Emp99321",
+      "name": "Deduce me",
+      "age": 11,
+      "addresses": [
+          {"id":1,"location":'Dhaka'},
+          {"id":2,"location":'Perth'},
+          {"id":3,"location":'Patna'},
+          {"id":4,"location":'Sidny'}
+
+      ]
+    },
+    {
+      "id": 6,
+      "employeeId": "Emp332211",
+      "name": "Demu me",
+      "age": 77,
+      "addresses": [
+          {"id":1,"location":'Ranchi'},
+          {"id":2,"location":'Gaya'},
+          {"id":3,"location":'Begusarai'},
+          {"id":4,"location":'Mughalsarai'}
+
+      ]
+    },
+    {
+      "id": 7,
+      "employeeId": "Emp991",
+      "name": "Krish me",
+      "age": 88,
+      "addresses": [
+          {"id":1,"location":'Jamshedpur'},
+          {"id":2,"location":'Tata'},
+          {"id":3,"location":'Falta'},
+          {"id":4,"location":'Palta'}
+
+      ]
+    }
+
+  ]
+}
